@@ -1,0 +1,31 @@
+body{
+    background-color: #f0a1a5;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color:#f70424;
+}
+img{
+    width: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+.container{
+        margin: auto;
+        width: 50%;
+        /* border: 3px solid green; */
+        padding-left: 550px;
+}
+button{
+    background-color: #fe7f6c;
+    text-transform: uppercase;
+    }
+    #no{
+        position: relative;
+    }
+#no:hover{
+    left:700px
+}
